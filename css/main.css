@@ -1,2 +1,9 @@
 @import "reset.css";
-@import "top.css";
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700&display=swap');
+@import "topcss.css";
+@import "services.css";
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
